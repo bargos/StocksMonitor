@@ -5,17 +5,83 @@ from components import modal
 
 layout = dbc.Container([
     dbc.Row([
-    modal.layout,
+        modal.layout,
         dbc.Col([
-            dbc.Button("Home", href='/home', className='header_icon')
-        ], md=1,xs=4), 
+            dbc.Card([
+                dbc.CardBody([
+                    dbc.Row([
+
+                    ])
+                ])
+            ], className='card1_linha1')
+        ], md=3, xs=2),
         dbc.Col([
-            dbc.Button("Wallet", href='/wallet', className='header_icon')
-        ], md=1,xs=4),
+            dbc.Card([
+                dbc.CardBody([
+                    dbc.Row([
+                        dbc.Col([
+                            dbc.Button("Home", href='/home', className='textoSecundario')
+                        ])
+                    ])
+                ])
+            ], className='card1_linha1')
+        ], md=1, xs=2),
         dbc.Col([
-            dbc.Button("Add", href='', id='add_button', className='header_icon')
-        ], md=1,xs=4),
-        html.Hr(style={'color' : 'rgba(255, 255, 255, 0.6)'})
+            dbc.Card([
+                dbc.CardBody([
+                    dbc.Row([
+                        dbc.Col([
+                            dbc.Button("Indicadores", href='/indicadores', className='textoSecundario')
+                        ])
+                    ])
+                ])
+            ], className='card1_linha1')
+        ], md=1, xs=2),
+        dbc.Col([
+            dbc.Card([
+                dbc.CardBody([
+                    dbc.Row([
+                        dbc.Col([
+                            dbc.Button("Carteira", href='/wallet', className='textoSecundario')
+                        ])
+                    ])
+                ])
+            ], className='card1_linha1')
+        ], md=1, xs=2),
+        dbc.Col([
+            dbc.Card([
+                dbc.CardBody([
+                    dbc.Row([
+                        dbc.Col([
+                            dbc.Button("Ativos", href='/ativos', className='textoSecundario')
+                        ])
+                    ])
+                ])
+            ], className='card1_linha1')
+        ], md=1, xs=2),
+        dbc.Col([
+            dbc.Card([
+                dbc.CardBody([
+                    dbc.Row([
+                        dbc.Col([
+                            dbc.Button("Adicionar", href='', id='add_button', className='textoSecundario')
+                        ])
+                    ])
+                ])
+            ], className='card1_linha1')
+        ], md=4, xs=2),
+        dbc.Col([
+            dbc.Card([
+                dbc.CardBody([
+                    dbc.Row([
+                        dbc.Col([html.Img(src='assets/logo_br2.png', height="80px"),
+
+                                 ])
+                    ])
+                ])
+            ], className='card1_linha1')
+        ], md=1, xs=2),
+
     ], className='g-2 my-auto'),
 
 ], fluid=True)

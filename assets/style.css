@@ -50,8 +50,13 @@ body{
     border-color: transparent;
 }
 .cards_linha2{
-    background-color: rgba(27, 31, 74, 0.3);
+    background-color: rgba(27, 48, 74, 0.3);
 }
+
+.cards_linha3{
+    background-color: rgba(74, 36, 27, 0.3);
+}
+
 .cardRadar{
     background-color: transparent;
     color: white;
@@ -131,12 +136,12 @@ Até daria pra alterar algumas caracteristicas do dropdown diretamente no dcc.dr
     font-family: NexaRegular;
 }
 .textoQuartenarioVerde{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: rgba(8,180,164,1);
     font-family: Nexa;
 }
 .textoQuartenarioVermelho{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: rgba(255,0,0, 0.7);
     font-family: Nexa;
 }
