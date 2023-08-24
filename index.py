@@ -3,7 +3,7 @@ from dash.dependencies import Input, Output, State, ALL
 import dash_bootstrap_components as dbc
 import pandas as pd
 
-from components import home, header, fixed_row, wallet
+from components import home, header, fixed_row, wallet, indicadores
 from functions import *
 from app import *
 
@@ -55,11 +55,6 @@ app.layout = dbc.Container([
             ]),
             dbc.Row([
                 dbc.Col([
-                   fixed_row.layout
-                ]),
-            ]),
-            dbc.Row([
-                dbc.Col([
                 ]),
             ],id="page-content"),
         ])
@@ -76,6 +71,8 @@ app.layout = dbc.Container([
 def render_page(pathname):
     if pathname == '/home' or pathname == '/':
         return home.layout
+    if pathname == '/indicadores':
+        return indicadores.layout
     if pathname == '/wallet':
         return wallet.layout
 

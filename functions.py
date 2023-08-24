@@ -8,6 +8,7 @@ from tvdatafeed_lib.main import TvDatafeed
 offsets = [DateOffset(days=5), DateOffset(months=1), DateOffset(months=3), DateOffset(months=6), DateOffset(years=1), DateOffset(years=2)] 
 delta_titles = ['5 dias', '1 mês', '3 meses', '6 meses', '1 ano', '2 anos', 'Ano até agora']
 PERIOD_OPTIONS = ['5d','1mo','3mo','6mo','1y','2y', 'ytd']
+PERIOD_OPTIONSML = ['1min', '5min','15min','30min','45min','1H','2H','1D','1W','1M']
 
 #itera sobre as tuplas de periodo opetion e offsets
 TIMEDELTAS = {x: y for x, y in zip(PERIOD_OPTIONS, offsets)}
@@ -125,17 +126,19 @@ def iterar_sobre_df_book(df_book_var: pd.DataFrame, ativos_org_var={}) -> dict:
     return ativos_org_var
 
 def iterar_sobre_df_ibov2(df_book_var: pd.DataFrame, ativos_org_var={}) -> dict:
-    for _, row in df_book_var.iterrows():
-        if not any(row['Código'] in sublist for sublist in ativos_org_var):  
-            ativos_org_var[row['Código']] = 1
+    for n, row in df_book_var.iterrows():
+        if n < 10: # tentando deixar o codigo mais rapido
+            if not any(row['Código'] in sublist for sublist in ativos_org_var):
+                ativos_org_var[row['Código']] = 1
     
     ativos_org_var['IBOV'] = 1
     return ativos_org_var 
 
 def iterar_sobre_df_ibov(df_book_var: pd.DataFrame, ativos_org_var={}) -> dict:
-    for _, row in df_book_var.iterrows():
-        if not any(row['Código'] in sublist for sublist in ativos_org_var):  
-            ativos_org_var[row['Código']] = 'BMFBOVESPA'
+    for n, row in df_book_var.iterrows():
+        if n < 10: # tentando deixar o codigo mais rapido
+            if not any(row['Código'] in sublist for sublist in ativos_org_var):  
+                ativos_org_var[row['Código']] = 'BMFBOVESPA'
     
     ativos_org_var['IBOV'] = 'BMFBOVESPA'
     return ativos_org_var 

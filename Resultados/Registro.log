@@ -1,0 +1,1880 @@
+08-21 14:00 - Horário de Início: 21-08-2023 14:00:52
+08-21 14:00 - TreinandoInterval.in_1_minute
+08-21 14:00 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_1_minute Finalizado
+08-21 14:01 -                                 Selected_Features  ...                                             HyperP
+39        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+40          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+41          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+42  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+43  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+
+[5 rows x 5 columns]
+08-21 14:01 - Intervalo Interval.in_1_minute finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.12 minutos
+08-21 14:01 - Finalizao às:14:01:00
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_3_minute
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_3_minute Finalizado
+08-21 14:01 -                                 Selected_Features  ...                                             HyperP
+83        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+84          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+85          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+86  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+87  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+
+[5 rows x 5 columns]
+08-21 14:01 - Intervalo Interval.in_3_minute finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.11 minutos
+08-21 14:01 - Finalizao às:14:01:06
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_5_minute
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_5_minute Finalizado
+08-21 14:01 -                                  Selected_Features  ...                                             HyperP
+127        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+128          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+129          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+130  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+131  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+
+[5 rows x 5 columns]
+08-21 14:01 - Intervalo Interval.in_5_minute finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.11 minutos
+08-21 14:01 - Finalizao às:14:01:13
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_15_minute
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_15_minute Finalizado
+08-21 14:01 -                                  Selected_Features  ...                                             HyperP
+171        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+172          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+173          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+174  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+175  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+
+[5 rows x 5 columns]
+08-21 14:01 - Intervalo Interval.in_15_minute finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.11 minutos
+08-21 14:01 - Finalizao às:14:01:19
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_30_minute
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_30_minute Finalizado
+08-21 14:01 -                                  Selected_Features  ...                                             HyperP
+215        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+216          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+217          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+218  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+219  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+
+[5 rows x 5 columns]
+08-21 14:01 - Intervalo Interval.in_30_minute finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.11 minutos
+08-21 14:01 - Finalizao às:14:01:25
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_45_minute
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_45_minute Finalizado
+08-21 14:01 -                                  Selected_Features  ...                                             HyperP
+259        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+260          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+261          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+262  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+263  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+
+[5 rows x 5 columns]
+08-21 14:01 - Intervalo Interval.in_45_minute finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.10 minutos
+08-21 14:01 - Finalizao às:14:01:32
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_1_hour
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_1_hour Finalizado
+08-21 14:01 -                                  Selected_Features  ...                                             HyperP
+303        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+304          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+305          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+306  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+307  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+
+[5 rows x 5 columns]
+08-21 14:01 - Intervalo Interval.in_1_hour finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.11 minutos
+08-21 14:01 - Finalizao às:14:01:38
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_2_hour
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_2_hour Finalizado
+08-21 14:01 -                                  Selected_Features  ...                                             HyperP
+347        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+348          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+349          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+350  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+351  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+
+[5 rows x 5 columns]
+08-21 14:01 - Intervalo Interval.in_2_hour finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.10 minutos
+08-21 14:01 - Finalizao às:14:01:44
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_3_hour
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_3_hour Finalizado
+08-21 14:01 -                                  Selected_Features  ...                                             HyperP
+391        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+392          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+393          Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+394  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+395  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+
+[5 rows x 5 columns]
+08-21 14:01 - Intervalo Interval.in_3_hour finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.10 minutos
+08-21 14:01 - Finalizao às:14:01:50
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_daily
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:01 - Interval.in_daily Finalizado
+08-21 14:01 -                                  Selected_Features   Accuracy  Normalize          Intervalo                                             HyperP
+435        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  50.210000      False  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+436          Open, rsi, ema_5_t, sma_5_t, ema_10_t  50.030469       True  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+437          Open, rsi, ema_5_t, sma_5_t, ema_10_t  49.970000      False  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+438  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  50.091408       True  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+439  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  50.090000      False  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:01 - Intervalo Interval.in_daily finalizado
+08-21 14:01 - Melhor modelo Salvo
+08-21 14:01 - Tempo de execução: 0.10 minutos
+08-21 14:01 - Finalizao às:14:01:56
+08-21 14:01 - 
+08-21 14:01 - TreinandoInterval.in_weekly
+08-21 14:01 - you are using nologin method, data you access may be limited
+08-21 14:02 - Interval.in_weekly Finalizado
+08-21 14:02 -                                  Selected_Features   Accuracy  Normalize           Intervalo                                             HyperP
+479        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  55.280000      False  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+480          Open, rsi, ema_5_t, sma_5_t, ema_10_t  50.753769       True  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+481          Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.260000      False  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+482  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.507538       True  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+483  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  50.000000      False  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:02 - Intervalo Interval.in_weekly finalizado
+08-21 14:02 - Melhor modelo Salvo
+08-21 14:02 - Tempo de execução: 0.09 minutos
+08-21 14:02 - Finalizao às:14:02:02
+08-21 14:02 - 
+08-21 14:02 - TreinandoInterval.in_monthly
+08-21 14:02 - you are using nologin method, data you access may be limited
+08-21 14:02 - Interval.in_monthly Finalizado
+08-21 14:02 -                                  Selected_Features   Accuracy  Normalize            Intervalo                                             HyperP
+523        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  52.940000      False  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+524          Open, rsi, ema_5_t, sma_5_t, ema_10_t  54.117647       True  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+525          Open, rsi, ema_5_t, sma_5_t, ema_10_t  60.000000      False  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+526  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  50.588235       True  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+527  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.940000      False  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:02 - Intervalo Interval.in_monthly finalizado
+08-21 14:02 - Melhor modelo Salvo
+08-21 14:02 - Tempo de execução: 0.07 minutos
+08-21 14:02 - Finalizao às:14:02:06
+08-21 14:02 - 
+08-21 14:02 - Tempo total de execução: 1.22 minutos
+08-21 14:22 - Horário de Início: 21-08-2023 14:22:59
+08-21 14:22 - TreinandoInterval.in_1_minute
+08-21 14:22 - you are using nologin method, data you access may be limited
+08-21 14:23 - Interval.in_1_minute Finalizado
+08-21 14:23 -                                 Selected_Features   Accuracy  Normalize             Intervalo                                             HyperP
+39        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  58.010000      False  Interval.in_1_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+40          Open, rsi, ema_5_t, sma_5_t, ema_10_t  58.439976       True  Interval.in_1_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+41          Open, rsi, ema_5_t, sma_5_t, ema_10_t  57.590000      False  Interval.in_1_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+42  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  57.464960       True  Interval.in_1_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+43  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  58.320000      False  Interval.in_1_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:23 - Intervalo Interval.in_1_minute finalizado
+08-21 14:23 - Melhor modelo Salvo
+08-21 14:23 - Tempo de execução: 0.10 minutos
+08-21 14:23 - Finalizao às:14:23:05
+08-21 14:23 - 
+08-21 14:23 - TreinandoInterval.in_3_minute
+08-21 14:23 - you are using nologin method, data you access may be limited
+08-21 14:23 - Interval.in_3_minute Finalizado
+08-21 14:23 -                                 Selected_Features   Accuracy  Normalize             Intervalo                                             HyperP
+83        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  54.600000      False  Interval.in_3_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+84          Open, rsi, ema_5_t, sma_5_t, ema_10_t  55.149299       True  Interval.in_3_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+85          Open, rsi, ema_5_t, sma_5_t, ema_10_t  55.150000      False  Interval.in_3_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+86  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  55.453991       True  Interval.in_3_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+87  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  55.030000      False  Interval.in_3_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:23 - Intervalo Interval.in_3_minute finalizado
+08-21 14:23 - Melhor modelo Salvo
+08-21 14:23 - Tempo de execução: 0.11 minutos
+08-21 14:23 - Finalizao às:14:23:12
+08-21 14:23 - 
+08-21 14:23 - TreinandoInterval.in_5_minute
+08-21 14:23 - you are using nologin method, data you access may be limited
+08-21 14:23 - Interval.in_5_minute Finalizado
+08-21 14:23 -                                  Selected_Features   Accuracy  Normalize             Intervalo                                             HyperP
+127        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  54.050000      False  Interval.in_5_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+128          Open, rsi, ema_5_t, sma_5_t, ema_10_t  53.869592       True  Interval.in_5_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+129          Open, rsi, ema_5_t, sma_5_t, ema_10_t  54.240000      False  Interval.in_5_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+130  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  54.600853       True  Interval.in_5_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+131  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  54.050000      False  Interval.in_5_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:23 - Intervalo Interval.in_5_minute finalizado
+08-21 14:23 - Melhor modelo Salvo
+08-21 14:23 - Tempo de execução: 0.11 minutos
+08-21 14:23 - Finalizao às:14:23:18
+08-21 14:23 - 
+08-21 14:23 - TreinandoInterval.in_15_minute
+08-21 14:23 - you are using nologin method, data you access may be limited
+08-21 14:23 - Interval.in_15_minute Finalizado
+08-21 14:23 -                                  Selected_Features   Accuracy  Normalize              Intervalo                                             HyperP
+171        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  52.530000      False  Interval.in_15_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+172          Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.553931       True  Interval.in_15_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+173          Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.980000      False  Interval.in_15_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+174  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.833638       True  Interval.in_15_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+175  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.920000      False  Interval.in_15_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:23 - Intervalo Interval.in_15_minute finalizado
+08-21 14:23 - Melhor modelo Salvo
+08-21 14:23 - Tempo de execução: 0.11 minutos
+08-21 14:23 - Finalizao às:14:23:25
+08-21 14:23 - 
+08-21 14:23 - TreinandoInterval.in_30_minute
+08-21 14:23 - you are using nologin method, data you access may be limited
+08-21 14:23 - Interval.in_30_minute Finalizado
+08-21 14:23 -                                  Selected_Features   Accuracy  Normalize              Intervalo                                             HyperP
+215        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  52.890000      False  Interval.in_30_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+216          Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.041438       True  Interval.in_30_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+217          Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.130000      False  Interval.in_30_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+218  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.249238       True  Interval.in_30_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+219  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.740000      False  Interval.in_30_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:23 - Intervalo Interval.in_30_minute finalizado
+08-21 14:23 - Melhor modelo Salvo
+08-21 14:23 - Tempo de execução: 0.11 minutos
+08-21 14:23 - Finalizao às:14:23:31
+08-21 14:23 - 
+08-21 14:23 - TreinandoInterval.in_45_minute
+08-21 14:23 - you are using nologin method, data you access may be limited
+08-21 14:23 - Interval.in_45_minute Finalizado
+08-21 14:23 -                                  Selected_Features   Accuracy  Normalize              Intervalo                                             HyperP
+259        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  50.580000      False  Interval.in_45_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+260          Open, rsi, ema_5_t, sma_5_t, ema_10_t  48.567946       True  Interval.in_45_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+261          Open, rsi, ema_5_t, sma_5_t, ema_10_t  48.930000      False  Interval.in_45_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+262  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  49.725777       True  Interval.in_45_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+263  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  50.150000      False  Interval.in_45_minute  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:23 - Intervalo Interval.in_45_minute finalizado
+08-21 14:23 - Melhor modelo Salvo
+08-21 14:23 - Tempo de execução: 0.11 minutos
+08-21 14:23 - Finalizao às:14:23:38
+08-21 14:23 - 
+08-21 14:23 - TreinandoInterval.in_1_hour
+08-21 14:23 - you are using nologin method, data you access may be limited
+08-21 14:23 - Interval.in_1_hour Finalizado
+08-21 14:23 -                                  Selected_Features   Accuracy  Normalize           Intervalo                                             HyperP
+303        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  51.920000      False  Interval.in_1_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+304          Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.163315       True  Interval.in_1_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+305          Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.220000      False  Interval.in_1_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+306  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.833638       True  Interval.in_1_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+307  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  53.990000      False  Interval.in_1_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:23 - Intervalo Interval.in_1_hour finalizado
+08-21 14:23 - Melhor modelo Salvo
+08-21 14:23 - Tempo de execução: 0.11 minutos
+08-21 14:23 - Finalizao às:14:23:44
+08-21 14:23 - 
+08-21 14:23 - TreinandoInterval.in_2_hour
+08-21 14:23 - you are using nologin method, data you access may be limited
+08-21 14:23 - Interval.in_2_hour Finalizado
+08-21 14:23 -                                  Selected_Features   Accuracy  Normalize           Intervalo                                             HyperP
+347        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  51.250000      False  Interval.in_2_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+348          Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.188300       True  Interval.in_2_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+349          Open, rsi, ema_5_t, sma_5_t, ema_10_t  50.460000      False  Interval.in_2_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+350  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  49.908592       True  Interval.in_2_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+351  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  49.730000      False  Interval.in_2_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:23 - Intervalo Interval.in_2_hour finalizado
+08-21 14:23 - Melhor modelo Salvo
+08-21 14:23 - Tempo de execução: 0.13 minutos
+08-21 14:23 - Finalizao às:14:23:52
+08-21 14:23 - 
+08-21 14:23 - TreinandoInterval.in_3_hour
+08-21 14:23 - you are using nologin method, data you access may be limited
+08-21 14:23 - Interval.in_3_hour Finalizado
+08-21 14:23 -                                  Selected_Features   Accuracy  Normalize           Intervalo                                             HyperP
+391        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  53.690000      False  Interval.in_3_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+392          Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.528946       True  Interval.in_3_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+393          Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.410000      False  Interval.in_3_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+394  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.919561       True  Interval.in_3_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+395  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.890000      False  Interval.in_3_hour  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:23 - Intervalo Interval.in_3_hour finalizado
+08-21 14:23 - Melhor modelo Salvo
+08-21 14:23 - Tempo de execução: 0.11 minutos
+08-21 14:23 - Finalizao às:14:23:59
+08-21 14:23 - 
+08-21 14:23 - TreinandoInterval.in_daily
+08-21 14:23 - you are using nologin method, data you access may be limited
+08-21 14:24 - Interval.in_daily Finalizado
+08-21 14:24 -                                  Selected_Features   Accuracy  Normalize          Intervalo                                             HyperP
+435        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  49.660000      False  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+436          Open, rsi, ema_5_t, sma_5_t, ema_10_t  49.421085       True  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+437          Open, rsi, ema_5_t, sma_5_t, ema_10_t  50.030000      False  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+438  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  49.542962       True  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+439  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  49.300000      False  Interval.in_daily  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:24 - Intervalo Interval.in_daily finalizado
+08-21 14:24 - Melhor modelo Salvo
+08-21 14:24 - Tempo de execução: 0.11 minutos
+08-21 14:24 - Finalizao às:14:24:05
+08-21 14:24 - 
+08-21 14:24 - TreinandoInterval.in_weekly
+08-21 14:24 - you are using nologin method, data you access may be limited
+08-21 14:24 - Interval.in_weekly Finalizado
+08-21 14:24 -                                  Selected_Features   Accuracy  Normalize           Intervalo                                             HyperP
+479        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  53.270000      False  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+480          Open, rsi, ema_5_t, sma_5_t, ema_10_t  48.743719       True  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+481          Open, rsi, ema_5_t, sma_5_t, ema_10_t  49.500000      False  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+482  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  51.507538       True  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+483  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  52.510000      False  Interval.in_weekly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:24 - Intervalo Interval.in_weekly finalizado
+08-21 14:24 - Melhor modelo Salvo
+08-21 14:24 - Tempo de execução: 0.08 minutos
+08-21 14:24 - Finalizao às:14:24:10
+08-21 14:24 - 
+08-21 14:24 - TreinandoInterval.in_monthly
+08-21 14:24 - you are using nologin method, data you access may be limited
+08-21 14:24 - Interval.in_monthly Finalizado
+08-21 14:24 -                                  Selected_Features   Accuracy  Normalize            Intervalo                                             HyperP
+523        Volume, rsi, ema_5_t, sma_5_t, ema_10_t  50.590000      False  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+524          Open, rsi, ema_5_t, sma_5_t, ema_10_t  56.470588       True  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+525          Open, rsi, ema_5_t, sma_5_t, ema_10_t  57.650000      False  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+526  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  49.411765       True  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+527  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t  55.290000      False  Interval.in_monthly  {'max_depth': 9, 'max_features': 1, 'min_sampl...
+08-21 14:24 - Intervalo Interval.in_monthly finalizado
+08-21 14:24 - Melhor modelo Salvo
+08-21 14:24 - Tempo de execução: 0.07 minutos
+08-21 14:24 - Finalizao às:14:24:15
+08-21 14:24 - 
+08-21 14:24 - Tempo total de execução: 1.26 minutos
+08-22 13:38 - Horário de Início: 22-08-2023 13:38:30
+08-22 13:38 - TreinandoInterval.in_1_minute
+08-22 13:38 - you are using nologin method, data you access may be limited
+08-22 13:39 - 5.12% do intervalo concluido
+08-22 13:40 - 10.24% do intervalo concluido
+08-22 13:42 - 15.36% do intervalo concluido
+08-22 13:43 - 20.48% do intervalo concluido
+08-22 13:44 - 25.60% do intervalo concluido
+08-22 13:46 - 30.71% do intervalo concluido
+08-22 13:47 - 35.83% do intervalo concluido
+08-22 13:49 - 40.95% do intervalo concluido
+08-22 13:51 - 46.07% do intervalo concluido
+08-22 13:52 - 51.19% do intervalo concluido
+08-22 13:54 - 56.31% do intervalo concluido
+08-22 13:56 - 61.43% do intervalo concluido
+08-22 13:58 - 66.55% do intervalo concluido
+08-22 14:00 - 71.67% do intervalo concluido
+08-22 14:02 - Horário de Início: 22-08-2023 14:02:49
+08-22 14:02 - TreinandoInterval.in_1_minute
+08-22 14:02 - you are using nologin method, data you access may be limited
+08-22 14:04 - 5.12% do intervalo concluido
+08-22 14:05 - 10.24% do intervalo concluido
+08-22 14:06 - 15.36% do intervalo concluido
+08-22 14:08 - 20.48% do intervalo concluido
+08-22 14:09 - 25.60% do intervalo concluido
+08-22 14:10 - 30.71% do intervalo concluido
+08-22 14:12 - 35.83% do intervalo concluido
+08-22 14:13 - 40.95% do intervalo concluido
+08-22 14:15 - 46.07% do intervalo concluido
+08-22 14:16 - 51.19% do intervalo concluido
+08-22 14:18 - 56.31% do intervalo concluido
+08-22 14:20 - 61.43% do intervalo concluido
+08-22 14:21 - 66.55% do intervalo concluido
+08-22 14:23 - 71.67% do intervalo concluido
+08-22 14:25 - 76.79% do intervalo concluido
+08-22 23:34 - Horário de Início: 22-08-2023 23:34:17
+08-22 23:34 - TreinandoInterval.in_1_minute
+08-22 23:34 - you are using nologin method, data you access may be limited
+08-22 23:35 - 5.12% do intervalo concluido
+08-22 23:36 - 10.24% do intervalo concluido
+08-22 23:37 - 15.36% do intervalo concluido
+08-22 23:39 - 20.48% do intervalo concluido
+08-22 23:40 - 25.60% do intervalo concluido
+08-22 23:41 - 30.71% do intervalo concluido
+08-22 23:42 - 35.83% do intervalo concluido
+08-22 23:44 - 40.95% do intervalo concluido
+08-22 23:45 - 46.07% do intervalo concluido
+08-22 23:46 - 51.19% do intervalo concluido
+08-22 23:48 - 56.31% do intervalo concluido
+08-22 23:49 - 61.43% do intervalo concluido
+08-22 23:51 - 66.55% do intervalo concluido
+08-22 23:52 - 71.67% do intervalo concluido
+08-22 23:53 - 76.79% do intervalo concluido
+08-22 23:55 - 81.90% do intervalo concluido
+08-22 23:56 - 87.02% do intervalo concluido
+08-22 23:58 - 92.14% do intervalo concluido
+08-22 23:59 - 97.26% do intervalo concluido
+08-23 00:00 - Interval.in_1_minute Finalizado
+08-23 00:00 -                                        Selected_Features   Accuracy  ...                                             HyperP                                              Model
+15623  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  58.870000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+15624  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  58.805606  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+15625  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  59.050000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+15626  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  59.414991  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+15627  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  59.660000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 00:00 - Intervalo Interval.in_1_minute finalizado
+08-23 00:00 - Melhor modelo Salvo
+08-23 00:00 - Tempo de execução: 26.29 minutos
+08-23 00:00 - Finalizao às:00:00:34
+08-23 00:00 - 
+08-23 00:00 - TreinandoInterval.in_3_minute
+08-23 00:00 - you are using nologin method, data you access may be limited
+08-23 00:02 - 5.12% do intervalo concluido
+08-23 00:03 - 10.24% do intervalo concluido
+08-23 00:05 - 15.36% do intervalo concluido
+08-23 00:07 - 20.48% do intervalo concluido
+08-23 00:08 - 25.60% do intervalo concluido
+08-23 00:10 - 30.71% do intervalo concluido
+08-23 00:12 - 35.83% do intervalo concluido
+08-23 00:13 - 40.95% do intervalo concluido
+08-23 00:15 - 46.07% do intervalo concluido
+08-23 00:17 - 51.19% do intervalo concluido
+08-23 00:18 - 56.31% do intervalo concluido
+08-23 00:20 - 61.43% do intervalo concluido
+08-23 00:22 - 66.55% do intervalo concluido
+08-23 00:24 - 71.67% do intervalo concluido
+08-23 00:26 - 76.79% do intervalo concluido
+08-23 00:27 - 81.90% do intervalo concluido
+08-23 00:29 - 87.02% do intervalo concluido
+08-23 00:31 - 92.14% do intervalo concluido
+08-23 00:33 - 97.26% do intervalo concluido
+08-23 00:34 - Interval.in_3_minute Finalizado
+08-23 00:34 -                                        Selected_Features   Accuracy  ...                                             HyperP                                              Model
+31251  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  56.790000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+31252  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  56.124314  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+31253  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  57.100000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+31254  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  57.099330  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+31255  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  56.730000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 00:34 - Intervalo Interval.in_3_minute finalizado
+08-23 00:34 - Melhor modelo Salvo
+08-23 00:34 - Tempo de execução: 33.91 minutos
+08-23 00:34 - Finalizao às:00:34:29
+08-23 00:34 - 
+08-23 00:34 - TreinandoInterval.in_5_minute
+08-23 00:34 - you are using nologin method, data you access may be limited
+08-23 00:36 - 5.12% do intervalo concluido
+08-23 00:38 - 10.24% do intervalo concluido
+08-23 00:40 - 15.36% do intervalo concluido
+08-23 00:42 - 20.48% do intervalo concluido
+08-23 00:44 - 25.60% do intervalo concluido
+08-23 00:46 - 30.71% do intervalo concluido
+08-23 00:48 - 35.83% do intervalo concluido
+08-23 00:50 - 40.95% do intervalo concluido
+08-23 00:52 - 46.07% do intervalo concluido
+08-23 00:54 - 51.19% do intervalo concluido
+08-23 00:57 - 56.31% do intervalo concluido
+08-23 00:59 - 61.43% do intervalo concluido
+08-23 01:01 - 66.55% do intervalo concluido
+08-23 01:03 - 71.67% do intervalo concluido
+08-23 01:05 - 76.79% do intervalo concluido
+08-23 01:07 - 81.90% do intervalo concluido
+08-23 01:10 - 87.02% do intervalo concluido
+08-23 01:12 - 92.14% do intervalo concluido
+08-23 01:14 - 97.26% do intervalo concluido
+08-23 01:15 - Interval.in_5_minute Finalizado
+08-23 01:15 -                                        Selected_Features   Accuracy  ...                                             HyperP                                              Model
+46879  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  55.330000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+46880  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  55.088361  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+46881  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  55.330000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+46882  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  55.880561  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+46883  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  54.910000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 01:15 - Intervalo Interval.in_5_minute finalizado
+08-23 01:15 - Melhor modelo Salvo
+08-23 01:15 - Tempo de execução: 41.36 minutos
+08-23 01:15 - Finalizao às:01:15:51
+08-23 01:15 - 
+08-23 01:15 - TreinandoInterval.in_15_minute
+08-23 01:15 - you are using nologin method, data you access may be limited
+08-23 01:18 - 5.12% do intervalo concluido
+08-23 01:20 - 10.24% do intervalo concluido
+08-23 01:22 - 15.36% do intervalo concluido
+08-23 01:25 - 20.48% do intervalo concluido
+08-23 01:27 - 25.60% do intervalo concluido
+08-23 01:30 - 30.71% do intervalo concluido
+08-23 01:32 - 35.83% do intervalo concluido
+08-23 01:34 - 40.95% do intervalo concluido
+08-23 01:37 - 46.07% do intervalo concluido
+08-23 01:39 - 51.19% do intervalo concluido
+08-23 01:42 - 56.31% do intervalo concluido
+08-23 01:44 - 61.43% do intervalo concluido
+08-23 01:47 - 66.55% do intervalo concluido
+08-23 01:49 - 71.67% do intervalo concluido
+08-23 01:52 - 76.79% do intervalo concluido
+08-23 01:54 - 81.90% do intervalo concluido
+08-23 01:57 - 87.02% do intervalo concluido
+08-23 02:00 - 92.14% do intervalo concluido
+08-23 02:02 - 97.26% do intervalo concluido
+08-23 02:04 - Interval.in_15_minute Finalizado
+08-23 02:04 -                                        Selected_Features   Accuracy  ...                                             HyperP                                              Model
+62507  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  52.590000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+62508  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  52.711761  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+62509  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  52.830000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+62510  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  52.711761  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+62511  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  53.560000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 02:04 - Intervalo Interval.in_15_minute finalizado
+08-23 02:04 - Melhor modelo Salvo
+08-23 02:04 - Tempo de execução: 48.19 minutos
+08-23 02:04 - Finalizao às:02:04:03
+08-23 02:04 - 
+08-23 02:04 - TreinandoInterval.in_30_minute
+08-23 02:04 - you are using nologin method, data you access may be limited
+08-23 02:06 - 5.12% do intervalo concluido
+08-23 02:09 - 10.24% do intervalo concluido
+08-23 02:12 - 15.36% do intervalo concluido
+08-23 02:14 - 20.48% do intervalo concluido
+08-23 02:17 - 25.60% do intervalo concluido
+08-23 02:20 - 30.71% do intervalo concluido
+08-23 02:23 - 35.83% do intervalo concluido
+08-23 02:25 - 40.95% do intervalo concluido
+08-23 02:28 - 46.07% do intervalo concluido
+08-23 02:31 - 51.19% do intervalo concluido
+08-23 02:34 - 56.31% do intervalo concluido
+08-23 02:37 - 61.43% do intervalo concluido
+08-23 02:40 - 66.55% do intervalo concluido
+08-23 02:42 - 71.67% do intervalo concluido
+08-23 02:45 - 76.79% do intervalo concluido
+08-23 02:48 - 81.90% do intervalo concluido
+08-23 02:51 - 87.02% do intervalo concluido
+08-23 02:54 - 92.14% do intervalo concluido
+08-23 02:57 - 97.26% do intervalo concluido
+08-23 02:59 - Interval.in_30_minute Finalizado
+08-23 02:59 -                                        Selected_Features   Accuracy  ...                                             HyperP                                              Model
+78135  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  52.890000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+78136  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  52.285192  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+78137  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  53.020000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+78138  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  51.553931  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+78139  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  53.380000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 02:59 - Intervalo Interval.in_30_minute finalizado
+08-23 02:59 - Melhor modelo Salvo
+08-23 02:59 - Tempo de execução: 55.07 minutos
+08-23 02:59 - Finalizao às:02:59:07
+08-23 02:59 - 
+08-23 02:59 - TreinandoInterval.in_45_minute
+08-23 02:59 - you are using nologin method, data you access may be limited
+08-23 03:02 - 5.12% do intervalo concluido
+08-23 03:05 - 10.24% do intervalo concluido
+08-23 03:08 - 15.36% do intervalo concluido
+08-23 03:11 - 20.48% do intervalo concluido
+08-23 03:14 - 25.60% do intervalo concluido
+08-23 03:17 - 30.71% do intervalo concluido
+08-23 03:20 - 35.83% do intervalo concluido
+08-23 03:24 - 40.95% do intervalo concluido
+08-23 03:27 - 46.07% do intervalo concluido
+08-23 03:30 - 51.19% do intervalo concluido
+08-23 03:33 - 56.31% do intervalo concluido
+08-23 03:36 - 61.43% do intervalo concluido
+08-23 03:40 - 66.55% do intervalo concluido
+08-23 03:43 - 71.67% do intervalo concluido
+08-23 03:46 - 76.79% do intervalo concluido
+08-23 03:49 - 81.90% do intervalo concluido
+08-23 03:53 - 87.02% do intervalo concluido
+08-23 03:56 - 92.14% do intervalo concluido
+08-23 04:00 - 97.26% do intervalo concluido
+08-23 04:01 - Interval.in_45_minute Finalizado
+08-23 04:01 -                                        Selected_Features   Accuracy  ...                                             HyperP                                              Model
+93763  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  50.520000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+93764  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  51.127361  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+93765  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  50.940000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+93766  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  51.371115  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+93767  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  51.550000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 04:01 - Intervalo Interval.in_45_minute finalizado
+08-23 04:01 - Melhor modelo Salvo
+08-23 04:01 - Tempo de execução: 62.71 minutos
+08-23 04:01 - Finalizao às:04:01:49
+08-23 04:01 - 
+08-23 04:01 - TreinandoInterval.in_1_hour
+08-23 04:01 - you are using nologin method, data you access may be limited
+08-23 04:05 - 5.12% do intervalo concluido
+08-23 04:08 - 10.24% do intervalo concluido
+08-23 04:12 - 15.36% do intervalo concluido
+08-23 04:15 - 20.48% do intervalo concluido
+08-23 04:19 - 25.60% do intervalo concluido
+08-23 04:22 - 30.71% do intervalo concluido
+08-23 04:26 - 35.83% do intervalo concluido
+08-23 04:29 - 40.95% do intervalo concluido
+08-23 04:33 - 46.07% do intervalo concluido
+08-23 04:37 - 51.19% do intervalo concluido
+08-23 04:40 - 56.31% do intervalo concluido
+08-23 04:44 - 61.43% do intervalo concluido
+08-23 04:47 - 66.55% do intervalo concluido
+08-23 04:51 - 71.67% do intervalo concluido
+08-23 04:55 - 76.79% do intervalo concluido
+08-23 04:58 - 81.90% do intervalo concluido
+08-23 05:02 - 87.02% do intervalo concluido
+08-23 05:06 - 92.14% do intervalo concluido
+08-23 05:09 - 97.26% do intervalo concluido
+08-23 05:11 - Interval.in_1_hour Finalizado
+08-23 05:11 -                                         Selected_Features   Accuracy  ...                                             HyperP                                              Model
+109391  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  52.100000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+109392  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  53.260207  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+109393  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  52.470000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+109394  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  52.163315  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+109395  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  53.200000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 05:11 - Intervalo Interval.in_1_hour finalizado
+08-23 05:11 - Melhor modelo Salvo
+08-23 05:11 - Tempo de execução: 70.08 minutos
+08-23 05:11 - Finalizao às:05:11:54
+08-23 05:11 - 
+08-23 05:11 - TreinandoInterval.in_2_hour
+08-23 05:11 - you are using nologin method, data you access may be limited
+08-23 05:15 - 5.12% do intervalo concluido
+08-23 05:19 - 10.24% do intervalo concluido
+08-23 05:23 - 15.36% do intervalo concluido
+08-23 05:27 - 20.48% do intervalo concluido
+08-23 05:31 - 25.60% do intervalo concluido
+08-23 05:35 - 30.71% do intervalo concluido
+08-23 05:39 - 35.83% do intervalo concluido
+08-23 05:43 - 40.95% do intervalo concluido
+08-23 05:46 - 46.07% do intervalo concluido
+08-23 05:50 - 51.19% do intervalo concluido
+08-23 05:54 - 56.31% do intervalo concluido
+08-23 05:58 - 61.43% do intervalo concluido
+08-23 06:02 - 66.55% do intervalo concluido
+08-23 06:06 - 71.67% do intervalo concluido
+08-23 06:10 - 76.79% do intervalo concluido
+08-23 06:14 - 81.90% do intervalo concluido
+08-23 06:18 - 87.02% do intervalo concluido
+08-23 06:22 - 92.14% do intervalo concluido
+08-23 06:27 - 97.26% do intervalo concluido
+08-23 06:29 - Interval.in_2_hour Finalizado
+08-23 06:29 -                                         Selected_Features   Accuracy  ...                                             HyperP                                              Model
+125019  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  51.800000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+125020  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  52.041438  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+125021  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  50.940000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+125022  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  51.797684  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+125023  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  51.800000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 06:29 - Intervalo Interval.in_2_hour finalizado
+08-23 06:29 - Melhor modelo Salvo
+08-23 06:29 - Tempo de execução: 77.31 minutos
+08-23 06:29 - Finalizao às:06:29:13
+08-23 06:29 - 
+08-23 06:29 - TreinandoInterval.in_3_hour
+08-23 06:29 - you are using nologin method, data you access may be limited
+08-23 06:33 - 5.12% do intervalo concluido
+08-23 06:37 - 10.24% do intervalo concluido
+08-23 06:41 - 15.36% do intervalo concluido
+08-23 06:46 - 20.48% do intervalo concluido
+08-23 06:50 - 25.60% do intervalo concluido
+08-23 06:54 - 30.71% do intervalo concluido
+08-23 06:59 - 35.83% do intervalo concluido
+08-23 07:03 - 40.95% do intervalo concluido
+08-23 07:08 - 46.07% do intervalo concluido
+08-23 07:13 - 51.19% do intervalo concluido
+08-23 07:17 - 56.31% do intervalo concluido
+08-23 07:22 - 61.43% do intervalo concluido
+08-23 07:27 - 66.55% do intervalo concluido
+08-23 07:32 - 71.67% do intervalo concluido
+08-23 07:37 - 76.79% do intervalo concluido
+08-23 07:42 - 81.90% do intervalo concluido
+08-23 07:47 - 87.02% do intervalo concluido
+08-23 07:52 - 92.14% do intervalo concluido
+08-23 07:57 - 97.26% do intervalo concluido
+08-23 08:00 - Interval.in_3_hour Finalizado
+08-23 08:00 -                                         Selected_Features   Accuracy  ...                                             HyperP                                              Model
+140647  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  51.010000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+140648  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  52.041438  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+140649  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  51.920000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+140650  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  50.213285  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+140651  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  50.580000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 08:00 - Intervalo Interval.in_3_hour finalizado
+08-23 08:00 - Melhor modelo Salvo
+08-23 08:00 - Tempo de execução: 90.98 minutos
+08-23 08:00 - Finalizao às:08:00:12
+08-23 08:00 - 
+08-23 08:00 - TreinandoInterval.in_daily
+08-23 08:00 - you are using nologin method, data you access may be limited
+08-23 08:05 - 5.12% do intervalo concluido
+08-23 08:10 - 10.24% do intervalo concluido
+08-23 08:15 - 15.36% do intervalo concluido
+08-23 08:20 - 20.48% do intervalo concluido
+08-23 08:25 - 25.60% do intervalo concluido
+08-23 08:30 - 30.71% do intervalo concluido
+08-23 08:36 - 35.83% do intervalo concluido
+08-23 08:41 - 40.95% do intervalo concluido
+08-23 08:46 - 46.07% do intervalo concluido
+08-23 08:51 - 51.19% do intervalo concluido
+08-23 08:56 - 56.31% do intervalo concluido
+08-23 09:01 - 61.43% do intervalo concluido
+08-23 09:06 - 66.55% do intervalo concluido
+08-23 09:12 - 71.67% do intervalo concluido
+08-23 09:17 - 76.79% do intervalo concluido
+08-23 09:22 - 81.90% do intervalo concluido
+08-23 09:28 - 87.02% do intervalo concluido
+08-23 09:34 - 92.14% do intervalo concluido
+08-23 09:39 - 97.26% do intervalo concluido
+08-23 09:42 - Interval.in_daily Finalizado
+08-23 09:42 -                                         Selected_Features   Accuracy  ...                                             HyperP                                              Model
+156275  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  51.130000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+156276  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  50.883608  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+156277  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  51.310000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...                                                NaN
+156278  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  50.030469  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+156279  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  50.400000  ...  {'max_depth': 9, 'max_features': 1, 'min_sampl...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 09:42 - Intervalo Interval.in_daily finalizado
+08-23 09:42 - Melhor modelo Salvo
+08-23 09:42 - Tempo de execução: 102.64 minutos
+08-23 09:42 - Finalizao às:09:42:50
+08-23 09:42 - 
+08-23 09:42 - TreinandoInterval.in_weekly
+08-23 09:42 - you are using nologin method, data you access may be limited
+08-23 09:48 - 5.12% do intervalo concluido
+08-23 09:53 - 10.24% do intervalo concluido
+08-23 09:59 - 15.36% do intervalo concluido
+08-23 10:04 - 20.48% do intervalo concluido
+08-23 10:09 - 25.60% do intervalo concluido
+08-23 10:15 - 30.71% do intervalo concluido
+08-23 10:21 - 35.83% do intervalo concluido
+08-23 10:26 - 40.95% do intervalo concluido
+08-23 10:32 - 46.07% do intervalo concluido
+08-23 10:37 - 51.19% do intervalo concluido
+08-23 10:42 - 56.31% do intervalo concluido
+08-23 10:48 - 61.43% do intervalo concluido
+08-23 10:53 - 66.55% do intervalo concluido
+08-23 10:58 - 71.67% do intervalo concluido
+08-23 11:04 - 76.79% do intervalo concluido
+08-23 11:09 - 81.90% do intervalo concluido
+08-23 11:14 - 87.02% do intervalo concluido
+08-23 11:20 - 92.14% do intervalo concluido
+08-23 11:25 - 97.26% do intervalo concluido
+08-23 11:28 - Interval.in_weekly Finalizado
+08-23 11:28 -                                         Selected_Features  ...                                              Model
+171903  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  ...                                                NaN
+171904  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  ...                                                NaN
+171905  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  ...                                                NaN
+171906  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  ...  RandomForestClassifier(max_depth=9, max_featur...
+171907  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  ...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 11:28 - Intervalo Interval.in_weekly finalizado
+08-23 11:28 - Melhor modelo Salvo
+08-23 11:28 - Tempo de execução: 105.36 minutos
+08-23 11:28 - Finalizao às:11:28:11
+08-23 11:28 - 
+08-23 11:28 - TreinandoInterval.in_monthly
+08-23 11:28 - you are using nologin method, data you access may be limited
+08-23 11:33 - 5.12% do intervalo concluido
+08-23 11:38 - 10.24% do intervalo concluido
+08-23 11:43 - 15.36% do intervalo concluido
+08-23 11:48 - 20.48% do intervalo concluido
+08-23 11:54 - 25.60% do intervalo concluido
+08-23 11:59 - 30.71% do intervalo concluido
+08-23 12:04 - 35.83% do intervalo concluido
+08-23 12:10 - 40.95% do intervalo concluido
+08-23 12:15 - 46.07% do intervalo concluido
+08-23 12:20 - 51.19% do intervalo concluido
+08-23 12:25 - 56.31% do intervalo concluido
+08-23 12:31 - 61.43% do intervalo concluido
+08-23 12:36 - 66.55% do intervalo concluido
+08-23 12:42 - 71.67% do intervalo concluido
+08-23 12:47 - 76.79% do intervalo concluido
+08-23 12:52 - 81.90% do intervalo concluido
+08-23 12:58 - 87.02% do intervalo concluido
+08-23 13:04 - 92.14% do intervalo concluido
+08-23 13:09 - 97.26% do intervalo concluido
+08-23 13:12 - Interval.in_monthly Finalizado
+08-23 13:12 -                                         Selected_Features  ...                                              Model
+187531  Volume, rsi, ema_5_t, sma_5_t, ema_10_t, sma_1...  ...                                                NaN
+187532  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  ...                                                NaN
+187533  Open, rsi, ema_5_t, sma_5_t, ema_10_t, sma_10_...  ...                                                NaN
+187534  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  ...  RandomForestClassifier(max_depth=9, max_featur...
+187535  Volume, Open, rsi, ema_5_t, sma_5_t, ema_10_t,...  ...  RandomForestClassifier(max_depth=9, max_featur...
+
+[5 rows x 6 columns]
+08-23 13:12 - Intervalo Interval.in_monthly finalizado
+08-23 13:12 - Melhor modelo Salvo
+08-23 13:12 - Tempo de execução: 104.33 minutos
+08-23 13:12 - Finalizao às:13:12:31
+08-23 13:12 - 
+08-23 13:12 - Tempo total de execução: 818.24 minutos
+08-23 14:49 - you are using nologin method, data you access may be limited
+08-23 14:49 - you are using nologin method, data you access may be limited
+08-23 14:50 - you are using nologin method, data you access may be limited
+08-23 14:51 - you are using nologin method, data you access may be limited
+08-23 22:37 - you are using nologin method, data you access may be limited
+08-23 22:40 - you are using nologin method, data you access may be limited
+08-23 22:55 - you are using nologin method, data you access may be limited
+08-23 22:55 - you are using nologin method, data you access may be limited
+08-23 22:55 - you are using nologin method, data you access may be limited
+08-23 23:31 - you are using nologin method, data you access may be limited
+08-23 23:31 - you are using nologin method, data you access may be limited
+08-23 23:31 - you are using nologin method, data you access may be limited
+08-23 23:31 - you are using nologin method, data you access may be limited
+08-23 23:33 - you are using nologin method, data you access may be limited
+08-23 23:33 - you are using nologin method, data you access may be limited
+08-23 23:35 - you are using nologin method, data you access may be limited
+08-23 23:36 - you are using nologin method, data you access may be limited
+08-23 23:36 - you are using nologin method, data you access may be limited
+08-23 23:36 - you are using nologin method, data you access may be limited
+08-23 23:37 - you are using nologin method, data you access may be limited
+08-23 23:37 - you are using nologin method, data you access may be limited
+08-23 23:37 - you are using nologin method, data you access may be limited
+08-23 23:37 - you are using nologin method, data you access may be limited
+08-23 23:37 - you are using nologin method, data you access may be limited
+08-23 23:37 - you are using nologin method, data you access may be limited
+08-23 23:37 - you are using nologin method, data you access may be limited
+08-23 23:37 - you are using nologin method, data you access may be limited
+08-23 23:37 - you are using nologin method, data you access may be limited
+08-23 23:38 - you are using nologin method, data you access may be limited
+08-23 23:38 - you are using nologin method, data you access may be limited
+08-23 23:38 - you are using nologin method, data you access may be limited
+08-23 23:38 - you are using nologin method, data you access may be limited
+08-23 23:38 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:39 - you are using nologin method, data you access may be limited
+08-23 23:53 - you are using nologin method, data you access may be limited
+08-23 23:54 - you are using nologin method, data you access may be limited
+08-23 23:58 - Dash is running on http://127.0.0.1:8051/
+
+08-23 23:58 - you are using nologin method, data you access may be limited
+08-24 00:04 - you are using nologin method, data you access may be limited
+08-24 00:05 - you are using nologin method, data you access may be limited
+08-24 00:06 - you are using nologin method, data you access may be limited
+08-24 00:10 - Dash is running on http://127.0.0.1:8051/
+
+08-24 00:10 - you are using nologin method, data you access may be limited
+08-24 00:14 - you are using nologin method, data you access may be limited
+08-24 00:15 - you are using nologin method, data you access may be limited
+08-24 00:15 - The read operation timed out
+08-24 00:15 - no data, please check the exchange and symbol
+08-24 00:16 - you are using nologin method, data you access may be limited
+08-24 00:19 - Dash is running on http://127.0.0.1:8051/
+
+08-24 00:19 - you are using nologin method, data you access may be limited
+08-24 00:21 - The read operation timed out
+08-24 00:21 - no data, please check the exchange and symbol
+08-24 00:24 - you are using nologin method, data you access may be limited
+08-24 00:29 - Dash is running on http://127.0.0.1:8051/
+
+08-24 00:29 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:33 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 00:35 - you are using nologin method, data you access may be limited
+08-24 07:55 - you are using nologin method, data you access may be limited
+08-24 07:55 - Dash is running on http://127.0.0.1:8051/
+
+08-24 07:55 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:56 - you are using nologin method, data you access may be limited
+08-24 07:57 - you are using nologin method, data you access may be limited
+08-24 07:57 - you are using nologin method, data you access may be limited
+08-24 07:57 - you are using nologin method, data you access may be limited
+08-24 07:57 - you are using nologin method, data you access may be limited
+08-24 07:57 - you are using nologin method, data you access may be limited
+08-24 07:57 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 07:58 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 08:48 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:04 - you are using nologin method, data you access may be limited
+08-24 09:05 - you are using nologin method, data you access may be limited
+08-24 09:05 - you are using nologin method, data you access may be limited
+08-24 09:05 - you are using nologin method, data you access may be limited
+08-24 09:05 - you are using nologin method, data you access may be limited
+08-24 09:05 - you are using nologin method, data you access may be limited
+08-24 09:05 - you are using nologin method, data you access may be limited
+08-24 09:05 - you are using nologin method, data you access may be limited
+08-24 09:05 - you are using nologin method, data you access may be limited
+08-24 09:05 - you are using nologin method, data you access may be limited
+08-24 09:07 - you are using nologin method, data you access may be limited
+08-24 09:07 - you are using nologin method, data you access may be limited
+08-24 09:07 - you are using nologin method, data you access may be limited
+08-24 09:07 - you are using nologin method, data you access may be limited
+08-24 09:07 - you are using nologin method, data you access may be limited
+08-24 09:07 - you are using nologin method, data you access may be limited
+08-24 09:08 - you are using nologin method, data you access may be limited
+08-24 09:08 - you are using nologin method, data you access may be limited
+08-24 09:08 - you are using nologin method, data you access may be limited
+08-24 09:08 - you are using nologin method, data you access may be limited
+08-24 09:08 - you are using nologin method, data you access may be limited
+08-24 09:08 - you are using nologin method, data you access may be limited
+08-24 09:08 - you are using nologin method, data you access may be limited
+08-24 09:08 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:09 - you are using nologin method, data you access may be limited
+08-24 09:10 - you are using nologin method, data you access may be limited
+08-24 09:10 - you are using nologin method, data you access may be limited
+08-24 09:18 - you are using nologin method, data you access may be limited
+08-24 09:18 - Dash is running on http://127.0.0.1:8051/
+
+08-24 09:18 - you are using nologin method, data you access may be limited
+08-24 09:18 - you are using nologin method, data you access may be limited
+08-24 09:23 - you are using nologin method, data you access may be limited
+08-24 09:23 - you are using nologin method, data you access may be limited
+08-24 09:23 - you are using nologin method, data you access may be limited
+08-24 09:23 - you are using nologin method, data you access may be limited
+08-24 09:23 - you are using nologin method, data you access may be limited
+08-24 09:23 - you are using nologin method, data you access may be limited
+08-24 09:23 - you are using nologin method, data you access may be limited
+08-24 09:23 - Dash is running on http://127.0.0.1:8051/
+
+08-24 09:23 - you are using nologin method, data you access may be limited
+08-24 09:24 - you are using nologin method, data you access may be limited
+08-24 09:40 - you are using nologin method, data you access may be limited
+08-24 09:40 - you are using nologin method, data you access may be limited
+08-24 09:42 - you are using nologin method, data you access may be limited
+08-24 09:42 - you are using nologin method, data you access may be limited
+08-24 09:50 - you are using nologin method, data you access may be limited
+08-24 09:51 - you are using nologin method, data you access may be limited
+08-24 09:52 - you are using nologin method, data you access may be limited
+08-24 09:52 - you are using nologin method, data you access may be limited
+08-24 09:53 - Dash is running on http://127.0.0.1:8051/
+
+08-24 09:53 - you are using nologin method, data you access may be limited
+08-24 09:53 - you are using nologin method, data you access may be limited
+08-24 10:24 - you are using nologin method, data you access may be limited
+08-24 10:24 - you are using nologin method, data you access may be limited
+08-24 10:24 - you are using nologin method, data you access may be limited
+08-24 10:24 - you are using nologin method, data you access may be limited
+08-24 10:25 - you are using nologin method, data you access may be limited
+08-24 10:27 - you are using nologin method, data you access may be limited
+08-24 10:27 - you are using nologin method, data you access may be limited
+08-24 10:28 - you are using nologin method, data you access may be limited
+08-24 10:29 - you are using nologin method, data you access may be limited
+08-24 10:29 - Dash is running on http://127.0.0.1:8051/
+
+08-24 10:29 - you are using nologin method, data you access may be limited
+08-24 10:30 - you are using nologin method, data you access may be limited
+08-24 10:32 - you are using nologin method, data you access may be limited
+08-24 10:33 - Dash is running on http://127.0.0.1:8051/
+
+08-24 10:33 - you are using nologin method, data you access may be limited
+08-24 10:33 - you are using nologin method, data you access may be limited
+08-24 10:34 - you are using nologin method, data you access may be limited
+08-24 10:55 - you are using nologin method, data you access may be limited
+08-24 10:55 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:05 - you are using nologin method, data you access may be limited
+08-24 11:06 - you are using nologin method, data you access may be limited
+08-24 11:06 - you are using nologin method, data you access may be limited
+08-24 11:07 - you are using nologin method, data you access may be limited
+08-24 11:07 - Dash is running on http://127.0.0.1:8051/
+
+08-24 11:07 - you are using nologin method, data you access may be limited
+08-24 11:07 - you are using nologin method, data you access may be limited
+08-24 11:07 - you are using nologin method, data you access may be limited
+08-24 11:07 - you are using nologin method, data you access may be limited
+08-24 11:07 - you are using nologin method, data you access may be limited
+08-24 11:08 - you are using nologin method, data you access may be limited
+08-24 11:08 - you are using nologin method, data you access may be limited
+08-24 11:08 - you are using nologin method, data you access may be limited
+08-24 11:08 - you are using nologin method, data you access may be limited
+08-24 11:08 - you are using nologin method, data you access may be limited
+08-24 11:08 - you are using nologin method, data you access may be limited
+08-24 11:08 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:10 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:11 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:12 - you are using nologin method, data you access may be limited
+08-24 11:13 - you are using nologin method, data you access may be limited
+08-24 11:13 - you are using nologin method, data you access may be limited
+08-24 11:13 - you are using nologin method, data you access may be limited
+08-24 11:13 - you are using nologin method, data you access may be limited
+08-24 11:13 - you are using nologin method, data you access may be limited
+08-24 11:13 - Dash is running on http://127.0.0.1:8051/
+
+08-24 11:13 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:14 - you are using nologin method, data you access may be limited
+08-24 11:18 - you are using nologin method, data you access may be limited
+08-24 11:18 - you are using nologin method, data you access may be limited
+08-24 11:18 - you are using nologin method, data you access may be limited
+08-24 11:18 - you are using nologin method, data you access may be limited
+08-24 11:18 - you are using nologin method, data you access may be limited
+08-24 11:19 - you are using nologin method, data you access may be limited
+08-24 11:19 - you are using nologin method, data you access may be limited
+08-24 11:19 - you are using nologin method, data you access may be limited
+08-24 11:19 - you are using nologin method, data you access may be limited
+08-24 11:19 - you are using nologin method, data you access may be limited
+08-24 11:19 - you are using nologin method, data you access may be limited
+08-24 11:19 - you are using nologin method, data you access may be limited
+08-24 11:22 - you are using nologin method, data you access may be limited
+08-24 11:22 - you are using nologin method, data you access may be limited
+08-24 11:23 - you are using nologin method, data you access may be limited
+08-24 11:24 - you are using nologin method, data you access may be limited
+08-24 11:24 - Dash is running on http://127.0.0.1:8051/
+
+08-24 11:24 - you are using nologin method, data you access may be limited
+08-24 11:37 - you are using nologin method, data you access may be limited
+08-24 11:39 - you are using nologin method, data you access may be limited
+08-24 11:40 - you are using nologin method, data you access may be limited
+08-24 11:41 - you are using nologin method, data you access may be limited
+08-24 11:42 - you are using nologin method, data you access may be limited
+08-24 11:43 - you are using nologin method, data you access may be limited
+08-24 11:43 - you are using nologin method, data you access may be limited
+08-24 11:43 - you are using nologin method, data you access may be limited
+08-24 11:44 - Dash is running on http://127.0.0.1:8051/
+
+08-24 11:44 - you are using nologin method, data you access may be limited
+08-24 11:44 - you are using nologin method, data you access may be limited
+08-24 11:46 - you are using nologin method, data you access may be limited
+08-24 11:46 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:47 - you are using nologin method, data you access may be limited
+08-24 11:48 - you are using nologin method, data you access may be limited
+08-24 11:48 - you are using nologin method, data you access may be limited
+08-24 11:49 - you are using nologin method, data you access may be limited
+08-24 11:50 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:51 - you are using nologin method, data you access may be limited
+08-24 11:52 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:53 - you are using nologin method, data you access may be limited
+08-24 11:54 - you are using nologin method, data you access may be limited
+08-24 11:54 - Dash is running on http://127.0.0.1:8051/
+
+08-24 11:54 - you are using nologin method, data you access may be limited
+08-24 11:55 - you are using nologin method, data you access may be limited
+08-24 11:56 - you are using nologin method, data you access may be limited
+08-24 11:56 - you are using nologin method, data you access may be limited
+08-24 11:57 - you are using nologin method, data you access may be limited
+08-24 11:58 - you are using nologin method, data you access may be limited
+08-24 11:59 - you are using nologin method, data you access may be limited
+08-24 11:59 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:02 - you are using nologin method, data you access may be limited
+08-24 12:04 - you are using nologin method, data you access may be limited
+08-24 12:05 - you are using nologin method, data you access may be limited
+08-24 12:05 - you are using nologin method, data you access may be limited
+08-24 12:05 - you are using nologin method, data you access may be limited
+08-24 12:05 - you are using nologin method, data you access may be limited
+08-24 12:05 - you are using nologin method, data you access may be limited
+08-24 12:05 - you are using nologin method, data you access may be limited
+08-24 12:05 - you are using nologin method, data you access may be limited
+08-24 12:05 - you are using nologin method, data you access may be limited
+08-24 12:05 - you are using nologin method, data you access may be limited
+08-24 12:08 - you are using nologin method, data you access may be limited
+08-24 12:08 - you are using nologin method, data you access may be limited
+08-24 12:08 - you are using nologin method, data you access may be limited
+08-24 12:09 - you are using nologin method, data you access may be limited
+08-24 12:09 - you are using nologin method, data you access may be limited
+08-24 12:09 - you are using nologin method, data you access may be limited
+08-24 12:09 - you are using nologin method, data you access may be limited
+08-24 12:09 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:10 - you are using nologin method, data you access may be limited
+08-24 12:11 - you are using nologin method, data you access may be limited
+08-24 12:12 - Dash is running on http://127.0.0.1:8051/
+
+08-24 12:12 - you are using nologin method, data you access may be limited
+08-24 12:14 - you are using nologin method, data you access may be limited
+08-24 12:14 - you are using nologin method, data you access may be limited
+08-24 12:14 - you are using nologin method, data you access may be limited
+08-24 12:15 - you are using nologin method, data you access may be limited
+08-24 12:15 - you are using nologin method, data you access may be limited
+08-24 12:15 - you are using nologin method, data you access may be limited
+08-24 12:15 - you are using nologin method, data you access may be limited
+08-24 12:15 - you are using nologin method, data you access may be limited
+08-24 12:15 - you are using nologin method, data you access may be limited
+08-24 12:15 - you are using nologin method, data you access may be limited
+08-24 12:15 - you are using nologin method, data you access may be limited
+08-24 12:16 - you are using nologin method, data you access may be limited
+08-24 12:16 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:17 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:18 - you are using nologin method, data you access may be limited
+08-24 12:19 - you are using nologin method, data you access may be limited
+08-24 12:19 - you are using nologin method, data you access may be limited
+08-24 12:19 - you are using nologin method, data you access may be limited
+08-24 12:20 - you are using nologin method, data you access may be limited
+08-24 12:20 - you are using nologin method, data you access may be limited
+08-24 12:24 - you are using nologin method, data you access may be limited
+08-24 12:24 - Dash is running on http://127.0.0.1:8051/
+
+08-24 12:24 - you are using nologin method, data you access may be limited
+08-24 12:25 - you are using nologin method, data you access may be limited
+08-24 12:26 - you are using nologin method, data you access may be limited
+08-24 12:26 - you are using nologin method, data you access may be limited
+08-24 12:27 - you are using nologin method, data you access may be limited
+08-24 12:27 - Dash is running on http://127.0.0.1:8051/
+
+08-24 12:27 - you are using nologin method, data you access may be limited
+08-24 12:28 - you are using nologin method, data you access may be limited
+08-24 12:29 - you are using nologin method, data you access may be limited
+08-24 12:30 - you are using nologin method, data you access may be limited
+08-24 12:31 - you are using nologin method, data you access may be limited
+08-24 12:32 - Dash is running on http://127.0.0.1:8051/
+
+08-24 12:32 - you are using nologin method, data you access may be limited
+08-24 12:32 - you are using nologin method, data you access may be limited
+08-24 12:33 - you are using nologin method, data you access may be limited
+08-24 12:33 - you are using nologin method, data you access may be limited
+08-24 12:36 - you are using nologin method, data you access may be limited
+08-24 12:37 - Dash is running on http://127.0.0.1:8051/
+
+08-24 12:37 - you are using nologin method, data you access may be limited
+08-24 12:37 - you are using nologin method, data you access may be limited
+08-24 12:37 - you are using nologin method, data you access may be limited
+08-24 12:38 - you are using nologin method, data you access may be limited
+08-24 12:39 - you are using nologin method, data you access may be limited
+08-24 12:39 - Dash is running on http://127.0.0.1:8051/
+
+08-24 12:39 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:40 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:42 - you are using nologin method, data you access may be limited
+08-24 12:44 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:45 - you are using nologin method, data you access may be limited
+08-24 12:47 - you are using nologin method, data you access may be limited
+08-24 12:48 - you are using nologin method, data you access may be limited
+08-24 12:49 - you are using nologin method, data you access may be limited
+08-24 12:50 - Dash is running on http://127.0.0.1:8051/
+
+08-24 12:50 - you are using nologin method, data you access may be limited
+08-24 15:02 - you are using nologin method, data you access may be limited
+08-24 15:02 - you are using nologin method, data you access may be limited
+08-24 15:02 - you are using nologin method, data you access may be limited
+08-24 15:02 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:03 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:04 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:05 - you are using nologin method, data you access may be limited
+08-24 15:12 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:13 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:14 - you are using nologin method, data you access may be limited
+08-24 15:15 - you are using nologin method, data you access may be limited
+08-24 15:17 - you are using nologin method, data you access may be limited
+08-24 15:17 - you are using nologin method, data you access may be limited
+08-24 15:17 - you are using nologin method, data you access may be limited
+08-24 15:18 - you are using nologin method, data you access may be limited
+08-24 15:18 - Dash is running on http://127.0.0.1:8051/
+
+08-24 15:18 - you are using nologin method, data you access may be limited
+08-24 15:18 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:19 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:20 - you are using nologin method, data you access may be limited
+08-24 15:21 - you are using nologin method, data you access may be limited
+08-24 15:21 - you are using nologin method, data you access may be limited
+08-24 15:24 - you are using nologin method, data you access may be limited
+08-24 15:25 - Dash is running on http://127.0.0.1:8051/
+
+08-24 15:25 - you are using nologin method, data you access may be limited
+08-24 15:25 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:26 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:27 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:28 - you are using nologin method, data you access may be limited
+08-24 15:29 - you are using nologin method, data you access may be limited
+08-24 15:29 - you are using nologin method, data you access may be limited
+08-24 15:29 - you are using nologin method, data you access may be limited
+08-24 15:30 - you are using nologin method, data you access may be limited
+08-24 15:30 - you are using nologin method, data you access may be limited
+08-24 15:30 - you are using nologin method, data you access may be limited
+08-24 15:30 - you are using nologin method, data you access may be limited
+08-24 15:30 - you are using nologin method, data you access may be limited
+08-24 15:31 - you are using nologin method, data you access may be limited
+08-24 15:31 - you are using nologin method, data you access may be limited
+08-24 15:31 - you are using nologin method, data you access may be limited
+08-24 15:31 - you are using nologin method, data you access may be limited
+08-24 15:31 - you are using nologin method, data you access may be limited
+08-24 15:31 - you are using nologin method, data you access may be limited
+08-24 15:32 - Dash is running on http://127.0.0.1:8051/
+
+08-24 15:32 - you are using nologin method, data you access may be limited
+08-24 15:32 - you are using nologin method, data you access may be limited
+08-24 15:32 - you are using nologin method, data you access may be limited
+08-24 15:32 - you are using nologin method, data you access may be limited
+08-24 15:32 - you are using nologin method, data you access may be limited
+08-24 15:32 - you are using nologin method, data you access may be limited
+08-24 15:33 - you are using nologin method, data you access may be limited
+08-24 15:33 - you are using nologin method, data you access may be limited
+08-24 15:33 - you are using nologin method, data you access may be limited
+08-24 15:33 - you are using nologin method, data you access may be limited
+08-24 15:33 - you are using nologin method, data you access may be limited
+08-24 15:33 - you are using nologin method, data you access may be limited
+08-24 15:33 - you are using nologin method, data you access may be limited
+08-24 15:35 - you are using nologin method, data you access may be limited
+08-24 15:35 - Dash is running on http://127.0.0.1:8051/
+
+08-24 15:35 - you are using nologin method, data you access may be limited
+08-24 15:35 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:36 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:38 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:39 - you are using nologin method, data you access may be limited
+08-24 15:40 - you are using nologin method, data you access may be limited
+08-24 15:40 - Dash is running on http://127.0.0.1:8051/
+
+08-24 15:40 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:41 - you are using nologin method, data you access may be limited
+08-24 15:47 - you are using nologin method, data you access may be limited
+08-24 15:47 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:48 - you are using nologin method, data you access may be limited
+08-24 15:50 - you are using nologin method, data you access may be limited
+08-24 15:50 - Dash is running on http://127.0.0.1:8051/
+
+08-24 15:50 - you are using nologin method, data you access may be limited
+08-24 15:50 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:51 - you are using nologin method, data you access may be limited
+08-24 15:52 - you are using nologin method, data you access may be limited
+08-24 15:52 - you are using nologin method, data you access may be limited
+08-24 15:52 - you are using nologin method, data you access may be limited
+08-24 15:52 - you are using nologin method, data you access may be limited
+08-24 15:53 - Dash is running on http://127.0.0.1:8051/
+
+08-24 15:53 - you are using nologin method, data you access may be limited
+08-24 15:53 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:54 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:55 - you are using nologin method, data you access may be limited
+08-24 15:56 - you are using nologin method, data you access may be limited
+08-24 15:56 - you are using nologin method, data you access may be limited
+08-24 15:56 - you are using nologin method, data you access may be limited
+08-24 15:56 - you are using nologin method, data you access may be limited
+08-24 15:56 - you are using nologin method, data you access may be limited
+08-24 15:56 - you are using nologin method, data you access may be limited
+08-24 15:56 - you are using nologin method, data you access may be limited
+08-24 15:58 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 15:59 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:00 - you are using nologin method, data you access may be limited
+08-24 16:01 - you are using nologin method, data you access may be limited
+08-24 16:01 - you are using nologin method, data you access may be limited
+08-24 16:01 - you are using nologin method, data you access may be limited
+08-24 16:01 - you are using nologin method, data you access may be limited
+08-24 16:01 - you are using nologin method, data you access may be limited
+08-24 16:02 - you are using nologin method, data you access may be limited
+08-24 16:02 - you are using nologin method, data you access may be limited
+08-24 16:02 - you are using nologin method, data you access may be limited
+08-24 16:02 - you are using nologin method, data you access may be limited
+08-24 16:02 - you are using nologin method, data you access may be limited
+08-24 16:02 - you are using nologin method, data you access may be limited
+08-24 16:02 - you are using nologin method, data you access may be limited
+08-24 16:02 - you are using nologin method, data you access may be limited
+08-24 16:02 - you are using nologin method, data you access may be limited
+08-24 16:02 - The read operation timed out
+08-24 16:02 - no data, please check the exchange and symbol
+08-24 16:03 - you are using nologin method, data you access may be limited
+08-24 16:03 - you are using nologin method, data you access may be limited
+08-24 16:03 - Dash is running on http://127.0.0.1:8051/
+
+08-24 16:03 - you are using nologin method, data you access may be limited
+08-24 16:04 - you are using nologin method, data you access may be limited
+08-24 16:04 - you are using nologin method, data you access may be limited
+08-24 16:04 - you are using nologin method, data you access may be limited
+08-24 16:04 - you are using nologin method, data you access may be limited
+08-24 16:04 - you are using nologin method, data you access may be limited
+08-24 16:05 - you are using nologin method, data you access may be limited
+08-24 16:05 - you are using nologin method, data you access may be limited
+08-24 16:05 - you are using nologin method, data you access may be limited
+08-24 16:05 - you are using nologin method, data you access may be limited
+08-24 16:05 - you are using nologin method, data you access may be limited
+08-24 16:05 - you are using nologin method, data you access may be limited
+08-24 16:05 - you are using nologin method, data you access may be limited
+08-24 16:05 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:06 - you are using nologin method, data you access may be limited
+08-24 16:07 - you are using nologin method, data you access may be limited
+08-24 16:07 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:08 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:09 - you are using nologin method, data you access may be limited
+08-24 16:10 - you are using nologin method, data you access may be limited
+08-24 16:10 - you are using nologin method, data you access may be limited
+08-24 16:11 - you are using nologin method, data you access may be limited
+08-24 16:12 - Dash is running on http://127.0.0.1:8051/
+
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:12 - you are using nologin method, data you access may be limited
+08-24 16:23 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited
+08-24 16:24 - you are using nologin method, data you access may be limited

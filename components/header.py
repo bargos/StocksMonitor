@@ -13,63 +13,63 @@ layout = dbc.Container([
 
                     ])
                 ])
-            ], className='card1_linha1')
+            ],  className='card1_linha1  align-items-center')
         ], md=3, xs=2),
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
                     dbc.Row([
                         dbc.Col([
-                            dbc.Button("Home", href='/home', className='textoSecundario')
+                            dbc.Button("Home", href='/home', className='header_icon')
                         ])
                     ])
                 ])
-            ], className='card1_linha1')
+            ],  className='card1_linha1  align-items-center')
         ], md=1, xs=2),
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
                     dbc.Row([
                         dbc.Col([
-                            dbc.Button("Indicadores", href='/indicadores', className='textoSecundario')
+                            dbc.Button("Indicadores", href='/indicadores', className='header_icon')
                         ])
                     ])
                 ])
-            ], className='card1_linha1')
+            ],  className='card1_linha1  align-items-center')
         ], md=1, xs=2),
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
                     dbc.Row([
                         dbc.Col([
-                            dbc.Button("Carteira", href='/wallet', className='textoSecundario')
+                            dbc.Button("Carteira", href='/wallet', className='header_icon')
                         ])
                     ])
                 ])
-            ], className='card1_linha1')
+            ],  className='card1_linha1  align-items-center')
         ], md=1, xs=2),
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
                     dbc.Row([
                         dbc.Col([
-                            dbc.Button("Ativos", href='/ativos', className='textoSecundario')
+                            dbc.Button("Ativos", href='/ativos', className='header_icon')
                         ])
                     ])
                 ])
-            ], className='card1_linha1')
+            ],  className='card1_linha1  align-items-center')
         ], md=1, xs=2),
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
                     dbc.Row([
                         dbc.Col([
-                            dbc.Button("Adicionar", href='', id='add_button', className='textoSecundario')
+                            dbc.Button("Adicionar", href='', id='add_button', className='header_icon')
                         ])
                     ])
                 ])
-            ], className='card1_linha1')
-        ], md=4, xs=2),
+            ],  className='card1_linha1  align-items-center')
+        ], md=1, xs=2),
         dbc.Col([
             dbc.Card([
                 dbc.CardBody([
@@ -79,9 +79,9 @@ layout = dbc.Container([
                                  ])
                     ])
                 ])
-            ], className='card1_linha1')
-        ], md=1, xs=2),
+            ],  className='card1_linha1  align-items-center')
+        ], md=4, xs=2),
 
-    ], className='g-2 my-auto'),
+    ], className='g-2 my-auto align-items-center'),
 
 ], fluid=True)

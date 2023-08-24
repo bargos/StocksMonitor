@@ -28,7 +28,7 @@ body{
     background-color : transparent;
     border-color : transparent;
     color : rgba(255, 255, 255, 0.6);
-    font-size: 20px;
+    font-size: 1.6rem;
     padding: 0;
     font-family: Nexa;
 }
@@ -65,42 +65,48 @@ body{
 
 /*Estilização dos botões switchs e radio buttons*/
 .form-check-input{
-    background-color: #c18919;
-    border-color: rgba(255,255,255,0.2);
+    background-color: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255,255,255,0.1);
 }
 .form-check-input:checked {
     background-color: #de9d1b;
-    border-color: 
+    border-color: #de9d1b;
 }
 
 /* Estilização do menu dropdown do line graph.
 Até daria pra alterar algumas caracteristicas do dropdown diretamente no dcc.dropdown, mas algumas só consegui pelo css, entao preferi alterar tudo por aqui pra centralizar as edições aqui */
 .Select-control {
-    background-color: #c18919 !important;
-    border-color: rgba(255,255,255,0.1);
-    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(255, 255, 255, 0.1);
+    color: rgba(255,255,255,1);
 }
 .is-open>.Select-control{
-    border-color: rgba(255,255,255,0.1);
+    background-color: rgba(27, 48, 74, 0.3);
+    border-color: rgba(255, 255, 255, 0.1);
 }
 .is-focused:not(.is-open)>.Select-control{
-    border-color: #091b80;
+    border-color: rgb(34, 107, 150) !important;
 }
 .Select-menu-outer {
-    background-color: #c18919;
-    border-color: rgba(255,255,255,0.1);
-    color: #091b80;
+    background-color: rgba(27, 48, 74, 0.3);
+    border-color: rgba(255,255,255,0);
+    color:rgba(255, 255, 255, 0.3);
+    font-size: 1.2rem;
+    font-family: NexaRegular;
 }
 .Select--multi .Select-value{
-    color: #091b80;
-    border-color: #091b80;
+    background-color: rgba(27, 48, 74, 0.3);
+    color: rgba(255, 255, 255, 0.6);
+    border-color:rgba(255, 255, 255, 0.3);
+    font-size: 1.3rem;
+    font-family: NexaRegular;
 }
 .Select-value-icon{
-    color: #091b80 ;
-    border-color: #091b80 !important;
+    color: rgba(255, 255, 255, 0.6);
+    border-color: rgba(255, 255, 255, 0.3);
 }
 .Select-value-icon:hover{
-    color: red !important;
+    color: rgb(34, 107, 150) !important;
 }
 
 /* Estilização das fontes: cores, tamanhos e famlias*/
@@ -151,7 +157,7 @@ h5 {
 
 /* Estilização graph line*/
 .graph_line{
-    height: 530px;
+    height: 700px;
 }
 .graph_cards{
     height: 40px;
